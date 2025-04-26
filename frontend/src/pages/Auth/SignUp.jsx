@@ -74,7 +74,6 @@ function SignUp() {
                             value={email}
                             onChange={({ target }) => setEmail(target.value)}
                             label="Email Address"
-                            placeholder="shivanshu@gmail.com"
                             type="text"
                         />
                         <div className="md:col-span-2">
