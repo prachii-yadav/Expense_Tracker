@@ -8,7 +8,7 @@
 A comprehensive full-stack **Expense Tracker** application built with modern web technologies. Take control of your finances with powerful tracking, visualization, and predictive tools.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/58d8d0ba-e1b7-4443-91a3-766cdb8c529d" alt="Dashboard Preview" width="80%">
+<!--   <img src="https://github.com/user-attachments/assets/58d8d0ba-e1b7-4443-91a3-766cdb8c529d" alt="Dashboard Preview" width="80%"> -->
 </p>
 
 ## ✨ Highlights
@@ -67,7 +67,7 @@ Our authentication system prioritizes security:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/shivanshunigam01/expense-tracker.git
+   git clone https://github.com/prachii-yadav/expense-tracker.git
    cd expense-tracker
    ```
 
@@ -101,33 +101,13 @@ Our authentication system prioritizes security:
    npm run dev
    ```
 
-## 📱 Application Screenshots
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/73d6b4aa-1ac4-4f03-8a80-de9eb907fda0" alt="Register Page" width="100%"><br><em>Registration</em></td>
-    <td><img src="https://github.com/user-attachments/assets/19abb3bc-d12b-4170-bebe-c66543ecf522" alt="Login Page" width="100%"><br><em>Login</em></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/da21ec98-cf91-4d9d-8b36-0a4dae637b15" alt="Income Page" width="100%"><br><em>Income Tracking</em></td>
-    <td><img src="https://github.com/user-attachments/assets/dd9ba950-6fca-4d64-8d1c-a3bfd9053899" alt="Expense Page" width="100%"><br><em>Expense Management</em></td>
-  </tr>
-</table>
-
-## 🔍 API Testing
-
-A comprehensive Postman collection is available for testing all API endpoints:
-[Download Postman Collection](https://drive.google.com/file/d/1gmH64unNFsoXZ1nH8hX1fdSgidu_HiyG/view?usp=sharing)
 
 ## 🧪 Test Credentials
 
 For quick testing, use the following demo credentials:
-- **Email**: `shivanshunigam18@petpooja.com`
-- **Password**: `shivanshunigam18@petpooja.com`
+- **Email**: `prachi@gmail.com`
+- **Password**: `prachi`
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Contributing
 
